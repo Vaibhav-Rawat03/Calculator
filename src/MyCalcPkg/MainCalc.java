@@ -8,6 +8,7 @@ public class MainCalc {
       int a=c.addition(10,20);
       int b=c.Subtraction(40,20);
       int z=c.Multiplication(15, 30);
+      float x=c.Divide(10,2);
       System.out.println(a);
       System.out.println(b);
       System.out.println(z);
